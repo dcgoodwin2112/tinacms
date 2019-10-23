@@ -19,7 +19,7 @@ gallery:
       social:
         - {}
 draft: true
-number: '75'
+number: '76'
 ---
 
 # TootToot
