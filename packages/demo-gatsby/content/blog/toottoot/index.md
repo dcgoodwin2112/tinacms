@@ -19,6 +19,7 @@ gallery:
       social:
         - {}
 draft: true
+number: '1.234'
 ---
 
 # TootToot
