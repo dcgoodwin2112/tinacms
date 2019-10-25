@@ -19,7 +19,7 @@ gallery:
       social:
         - {}
 draft: true
-number: '2'
+number: '1.2'
 ---
 
 # TootToot
